@@ -7,9 +7,9 @@
 
 ## GitHub Contributions
 
-![GitHub Contribution Graph](./profile-3d-contrib/profile-night-view.svg)
-
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+
+![GitHub Contribution Graph](./profile-3d-contrib/profile-night-view.svg)
 
 ## GitHub Stats
 
