@@ -1,51 +1,72 @@
-<img src="https://camo.githubusercontent.com/d2db2a98e00e44236180c960d84879e5a080a5c7b400da061a79a16bc9fe6dcf/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d393026636f6c6f723d6772616469656e74" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0A192F,100:38bdf8&section=header&text=Jhondel%20Caranay&fontColor=ccd6f6&fontSize=48&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descAlignY=55&descSize=18" width="100%" />
 
-<h1 align="center">Hi there👋</h1>
-<p align="center">I'm Jhondel Caranay, a passionate software developer.</p>
+<p align="center">
+  <a href="https://jhondel-portfolio.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&lines=Creating+modern+web+experiences.;Specializing+in+Node.js+backend+development.;Building+intuitive+UIs+with+React.;Passionate+full-stack+developer." alt="Typing SVG" />
+  </a>
+</p>
 
-<!-- GitHub Profile 3D Contrib -->
+<p align="center">
+  <a href="https://jhondel-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=38bdf8" /></a>
+  <a href="https://www.linkedin.com/in/jhondel-caranay-87b5ab205/"><img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=38bdf8" /></a>
+  <a href="https://www.facebook.com/pro.machdel/"><img src="https://img.shields.io/badge/Facebook-0A192F?style=for-the-badge&logo=facebook&logoColor=38bdf8" /></a>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJhondelCaranay&labelColor=%230A192F&countColor=%2338bdf8&style=for-the-badge&labelStyle=upper" />
+</p>
 
-## GitHub Contributions
+---
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+## 👋 About Me
 
-![GitHub Contribution Graph](./profile-3d-contrib/profile-night-view.svg)
+I'm a **full-stack web developer** who builds the business software companies run on every day: **ERPs, point-of-sale systems, HR and inventory platforms**.
 
-## GitHub Stats
+I started coding in college in 2021, and since then I've worked on real production systems: improving a warehouse inventory system, migrating an enterprise HR system from VB.NET to React and Express, and building a construction management and payroll system from the ground up.
 
-![Jhondel Caranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhondelCaranay&show_icons=true&count_private=true&theme=radical)
+I enjoy owning a product end to end, from designing the database and APIs to shipping a fast, responsive interface and keeping it running in production.
 
-## Top Languages
+- 🔭 Currently building business software: ERP, POS and SaaS platforms
+- 🧱 Focus: TypeScript, React, Express / NestJS, PostgreSQL, Docker
+- 💼 Open to full-time roles and freelance work
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JhondelCaranay&layout=compact&theme=radical)
+---
 
-## GitHub Streak
+## 🛠️ Tech Stack
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JhondelCaranay&theme=radical)
+**Front-end**<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,materialui,sass&theme=dark" />
 
-## Skills
+**Back-end**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel&theme=dark" />
 
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square&color=f16529)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square&color=2965f1)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square&color=f0db4f)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square&color=007acc)
-- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square&color=3776ab)
-- ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square&color=239120)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square&color=00758f)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square&color=4db33d)
-- ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square&color=black)
-- ![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&style=flat-square&color=61dafb)
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square&color=000000)
-- ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?logo=nestjs&logoColor=white&style=flat-square&color=e0234e)
+**Database**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma&theme=dark" />
 
-## Profile Views
+**DevOps & Tools**<br>
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,nginx,github,firebase&theme=dark" />
 
-![Profile Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJhondelCaranay)
+<sub>Also: TanStack Query & Router, shadcn/ui, Ant Design, Hono, Socket.IO, Drizzle, SQL Server, Cloudinary, Vitest</sub>
 
-## Let's Connect
+---
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-JhondelCaranay-blue)](https://www.linkedin.com/in/jhondel-caranay-87b5ab205/)
-- [![Facebook](https://img.shields.io/badge/Facebook-JhondelCaranay-blue)](https://www.facebook.com/pro.machdel/)
-- [![Personal Website](https://img.shields.io/badge/Website-My_portfolio-blue)](https://jhondel-portfolio.vercel.app/)
+## 📊 GitHub Activity
 
-Feel free to explore my repositories and connect with me! 🚀
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JhondelCaranay&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JhondelCaranay&theme=tokyonight" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhondelCaranay&hide_border=true&background=0A192F&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=ccd6f6&currStreakNum=ccd6f6&sideNums=ccd6f6&dates=8892b0&stroke=1e3a5f" />
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <b>Let's build something together.</b><br>
+  Reach me through my <a href="https://jhondel-portfolio.vercel.app/#contact">portfolio contact form</a> or <a href="https://www.linkedin.com/in/jhondel-caranay-87b5ab205/">LinkedIn</a>.
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:38bdf8,100:0A192F&section=footer" width="100%" />
